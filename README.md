@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Bienvenido al curso de Python
 
-You can use the [editor on GitHub](https://github.com/EmilioLdelaFuente/PythonCourse/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Este repositorio esta pensado como un curso para introducirte al mundo de Python 3 de forma rápida y sencilla contando con un conocimiento previo de otro lenguaje de programación (que es una variable, un operador, una función...). Durante este curso se presentara desde los más básico del lenguaje hasta mostrar las diferentes ramas que se podrían explorar una vez terminado. El curso esta pensado para realizarse en el interprete Spyder 3. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Como instalar Spyder 3
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Para instalar Spyder en linux es tan fácil como poner el siguiente mandato en la terminal: 
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+sudo apt-get install spyder3
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Y para ejecutarlo solo haria falta llamarlo de la siguiente manera:
 
-### Jekyll Themes
+```
+spyder3
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EmilioLdelaFuente/PythonCourse/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+En Windows tendremos que bajar el instalador de algúna distribución de python que contenga el programa. Para elegir la distribución podemos ir a la [siguiente pagina](https://pythonhosted.org/spyder/installation.html). Allí yo recomiendo si estas empezando Anaconda para quitarte problemas, pero no esta mal que sepamos que nos ofrece cada una de las distribuciones antes de elegir. 
 
-### Support or Contact
+Para la distribución de Anaconda, descarga el _installer_ de la versión de Python 3.6 de 64 bits para Windows. Una vez descargado ejecutalo y en la ventana que se te abre sigue los siguientes pasos:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Dale a _Next >_ en la primera ventana.
+2. Leete el acuerdo de las licencias (no quiero ser responsable de que aceptas algo que no quieres) y si te gusta dale a _I Agree_
+3. Seleciona la opción de usuarios que prefieras y dale a _Next >_ (Si compartes el ordenador no molestes al resto de usuarios...)
+4. Seleciona el directorio donde se realizara la instalción y vuelve a darle a _Next >_ 
+5. No seleciones ninguna de las opciones avanzadas si no sabes lo que estas haciendo (que seguramente no lo sepas si estas leyendo esto)
+6. Deja que se instale y finalizala cuando termine
+
+Para ejecutar Spyder en Windows se hace como cualquier ejecutable que lo podras encontrar en el buscador de programas. 
+
+Con el Spyder instalado ya puedes empezar el curso, adelante a aprender. 
