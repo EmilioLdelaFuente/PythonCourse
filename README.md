@@ -1,6 +1,6 @@
 ## Bienvenido al curso de Python
 
-Este repositorio esta pensado como un curso para introducirte al mundo de Python 3 de forma rápida y sencilla contando con un conocimiento previo de otro lenguaje de programación (que es una variable, un operador, una función...). Durante este curso se presentara desde los más básico del lenguaje hasta mostrar las diferentes ramas que se podrían explorar una vez terminado. El curso esta pensado para realizarse en el interprete Spyder 3. 
+Este repositorio esta pensado como un curso para introducirte al mundo de Python 3 de forma rápida y sencilla contando con un conocimientos básicos previos de otro lenguaje de programación (qué es una variable, un operador, una función...). Durante este curso se presentará desde los más básico del lenguaje hasta mostrar las diferentes ramas que se podrían explorar una vez terminado. El curso esta pensado para realizarse en el interprete Spyder 3. 
 
 ### Como instalar Spyder 3
 
@@ -10,15 +10,15 @@ Para instalar Spyder en linux es tan fácil como poner el siguiente mandato en l
 sudo apt-get install spyder3
 ```
 
-Y para ejecutarlo solo haria falta llamarlo de la siguiente manera:
+Y para ejecutarlo solo haría falta llamarlo de la siguiente manera:
 
 ```
 spyder3
 ```
 
-En Windows tendremos que bajar el instalador de algúna distribución de python que contenga el programa. Para elegir la distribución podemos ir a la [siguiente pagina](https://pythonhosted.org/spyder/installation.html). Allí yo recomiendo si estas empezando Anaconda para quitarte problemas, pero no esta mal que sepamos que nos ofrece cada una de las distribuciones antes de elegir. 
+En Windows tendremos que bajar el instalador de algúna distribución de python que contenga el programa. Para elegir la distribución podemos ir a la [siguiente página](https://pythonhosted.org/spyder/installation.html). Allí yo recomiendo, si estás empezando, Anaconda para quitarte problemas, pero no esta mal que sepamos que nos ofrece cada una de las distribuciones antes de elegir. 
 
-Para la distribución de Anaconda, descarga el _installer_ de la versión de Python 3.6 de 64 bits para Windows. Una vez descargado ejecutalo y en la ventana que se te abre sigue los siguientes pasos:
+Para la distribución de Anaconda, descarga el _installer_ de la versión de Python 3.6 de 64 bits para Windows. Una vez descargado ejecútalo y en la ventana que se te abre sigue los siguientes pasos:
 
 1. Dale a _Next >_ en la primera ventana.
 2. Leete el acuerdo de las licencias (no quiero ser responsable de que aceptas algo que no quieres) y si te gusta dale a _I Agree_
