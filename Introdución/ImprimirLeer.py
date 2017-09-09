@@ -8,3 +8,4 @@ print("escribe tu nombre")
 name=input("Me llamo ")  #guarda lo que escribas en la variavle 'name'
 print("No me creo que te llames",name,"...")
 #y asi se imprimen variables por pantalla
+3
