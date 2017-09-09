@@ -30,3 +30,9 @@ Para la distribución de Anaconda, descarga el _installer_ de la versión de Pyt
 Para ejecutar Spyder en Windows se hace como cualquier ejecutable que lo podras encontrar en el buscador de programas. 
 
 Con el Spyder instalado ya puedes empezar el curso, adelante a aprender. 
+
+### Introducción
+
+En la carpeta de introducción encontraras ejemplos sencillos sobre como utilizar las herramientas básicas de Python (bucles, operadores...). Los ejemplos son muy básicos y como utilizar estas herramientas para resolver los problemas que te surjan lo dejo a la interpretación del lector, así se divierte más. 
+
+Como ya sabras otro lenguaje puede que mucho sea parecido a lo que ya has utilizado pero aún asi recomiendo probar a rehacer ejemplos prácticos para estas herramietnas básicas y acostumbrarse a la sintaxis o peculiaridades que pueda haber en Python.
