@@ -13,3 +13,5 @@ while (a==5):
     a=a+x
 else: #un else detras de un while se ejecutara cuando la condicion no se cumpla
     print("'a' ya no vale 5...")
+    
+#Por desgracia en Python no existe el bucle 'do while' :/
